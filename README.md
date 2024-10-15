@@ -4,11 +4,11 @@
 Bu proje, çalışan ve proje yönetimi işlemlerini gerçekleştiren bir **Employee Management** uygulamasıdır. Uygulama **Angular 18** kullanılarak geliştirilmiştir ve çeşitli backend API'leri ile haberleşmektedir.
 
 ## Ekran Görüntüleri
-![5.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F5.png)
-![1.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F1.png)
-![2.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F2.png)
-![3.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F3.png)
-![4.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F4.png)
+![5](https://github.com/user-attachments/assets/22bd67c2-d071-402d-8950-a3ea9a400414)
+![1](https://github.com/user-attachments/assets/16d8dcba-495c-4e83-a94a-64c245adda32)
+![2](https://github.com/user-attachments/assets/a0ef701d-34c1-408f-81f5-cab49f696a5a)
+![3](https://github.com/user-attachments/assets/8cb4a234-344e-4884-b7f8-1b818ff40ed3)
+![4](https://github.com/user-attachments/assets/ba937912-bf80-4fa5-97ef-91d900f4d602)
 
 ## Özellikler
 
@@ -63,11 +63,11 @@ Uygulama çalıştıktan sonra:
 This project is an **Employee Management** application that allows you to manage employees and projects. The application is developed using **Angular 18** and communicates with various backend APIs.
 
 ## Screenshots
-![5.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F5.png)
-![1.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F1.png)
-![2.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F2.png)
-![3.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F3.png)
-![4.png](..%2F..%2F..%2FUsers%2FErdi%20Salg%C4%B1n%2FOneDrive%2FMasa%C3%BCst%C3%BC%2F4.png)
+![5](https://github.com/user-attachments/assets/a373d9a3-502f-487b-8186-9cb5a7811f8f)
+![1](https://github.com/user-attachments/assets/645f2350-b9b8-4c86-8588-4db61d7c2281)
+![2](https://github.com/user-attachments/assets/6c9282de-1c5b-4b41-87fe-91469a0d6210)
+![3](https://github.com/user-attachments/assets/d1f5c5be-ec2e-4ac9-b682-5d982d9f3094)
+![4](https://github.com/user-attachments/assets/92212ca6-0dbc-4c49-abee-4d4f4cd4b8f2)
 
 ## Features
 
